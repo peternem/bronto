@@ -31,10 +31,10 @@
           <h1>Contact Bronto</h1>
           <p>Feel free to give us a holler any time.  Regarding questions on sizing, spec, ordering, or anything related to getting you on a Bronto. Or, just to shoot the breeze.  We can also recommend the absolute best trail riding in Central Oregon.  So don't be shy.</p>
           <h2>Contact Bronto - General Questions and Comments:</h2>
-          <p><a href="mailto:bronto@brontobikes.com?subject=General%20Comments%20or%20Questions"><img src="images/contactBronto_btn.png" alt="sales@brontobikes.com" /></a></p>
+          <p><a href="contact.php"><img src="images/contactBronto_btn.png" alt="sales@brontobikes.com" /></a></p>
           <br />
           <h2>Technical Questions and Order Inquiries:</h2>
-          <p><a href="mailto:sales@brontobikes.com?subject=Sales%20Inquiries" ><img src="images/SaleInquiry_btn.png" alt="sales@brontobikes.com" /></a></p>
+          <p><a href="contact.php" ><img src="images/SaleInquiry_btn.png" alt="sales@brontobikes.com" /></a></p>
           <br />
           <h2>Mail:</h2>
           <p>Bronto MTB. Co.<br />
